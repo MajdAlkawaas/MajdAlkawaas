@@ -54,7 +54,7 @@
 <a href = 'https://www.linkedin.com/in/majdalkawaas'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/MajdAlkawaas'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
-<img  align="right" alt="MajdAlkawaas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MajdAlkawaas&show_icons=true&hide_border=true" />
+<img  align="center" alt="MajdAlkawaas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MajdAlkawaas&show_icons=true&hide_border=true" />
 
   
 <!-- [![Majd's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MajdAlkawaas&theme=tokyonight)](https://git.io/praveenscience) -->
@@ -66,11 +66,8 @@
 
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight) -->
 
-
 <br>
-
 
 -----
 Credits: [Aditya Deshmukh](https://github.com/Aditya664)
-
 Last Edited on: 04/17/2022
