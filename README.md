@@ -22,9 +22,9 @@
 
 - 🔭 I’m currently studying Computer Science at the American University of Beirut.
 
-- 🌱 I’m currently learning everything.
+- 🌱 I’m currently learning about biases in Machine learning.
   
-- 👯 I’m looking for internships or collaboration opportunities
+- 👯 I’m looking for internships or collaboration opportunities in software engineering or machine learning.
   
 - ⚡ Fun fact: I love acronyms.
 
