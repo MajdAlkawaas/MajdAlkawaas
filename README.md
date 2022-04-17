@@ -5,7 +5,7 @@
 <h1> 
   Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I am Majd, developer, and writer. 
 </h1>
-<p align='center'>
+<p align = 'center'>
 </p>
 
 
@@ -26,7 +26,7 @@
   
 - 👯 I’m looking for internships or collaboration opportunities
   
-- ⚡ Fun fact: I love wings.
+- ⚡ Fun fact: I love acronyms.
 
 - 💬 Reach me at: m.alkawaas@gmail.com | mma250@mail.aub.edu
 
