@@ -15,8 +15,6 @@
 <div size='20px'> Hi! My name is Majd. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<img  align="right" alt="MajdAlkawaas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MajdAlkawaas&show_icons=true&hide_border=true" />
-
 
 <h2> About Me </h2>
 <!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
@@ -55,10 +53,9 @@
 </h2>
 <a href = 'https://www.linkedin.com/in/majdalkawaas'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/MajdAlkawaas'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-  
-<br>
-<br>
-  <br>
+
+<img  align="right" alt="MajdAlkawaas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MajdAlkawaas&show_icons=true&hide_border=true" />
+
   
 <!-- [![Majd's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MajdAlkawaas&theme=tokyonight)](https://git.io/praveenscience) -->
 
