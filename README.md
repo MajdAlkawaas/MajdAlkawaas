@@ -54,6 +54,8 @@
 <a href = 'https://www.linkedin.com/in/majdalkawaas'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/MajdAlkawaas'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
+<br>
+
 <img  align="center" alt="MajdAlkawaas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MajdAlkawaas&show_icons=true&hide_border=true" />
 
   
