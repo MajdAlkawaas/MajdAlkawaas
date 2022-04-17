@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
     <img width="200" src="https://avatars.githubusercontent.com/u/73228648?v=4" , style="border-radius: 100px;">
-</p>
+</p> -->
 
 <h1> 
   Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I am Majd, developer, and writer. 
