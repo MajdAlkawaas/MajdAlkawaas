@@ -3,7 +3,7 @@
 </p> -->
 
 <h1> 
-  Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I am Majd, developer, and writer. 
+  Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I am Majd, developer and writer. 
 </h1>
 <p align = 'center'>
 </p>
