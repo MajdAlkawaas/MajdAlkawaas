@@ -58,15 +58,6 @@
 -----
 <img  align="center" alt="MajdAlkawaas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MajdAlkawaas&show_icons=true&hide_border=true" />
 
-  
-<!-- [![Majd's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MajdAlkawaas&theme=tokyonight)](https://git.io/praveenscience) -->
-
-<!-- ![Majd's github stats](https://github-readme-stats.vercel.app/api?username=MajdAlkawaas&show_icons=true&hide_border=true)  -->
-<!-- ![Majd GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MajdAlkawaas&theme=tokyonight) | -->
-<!-- | --- | --- | -->
-<!-- | ![Github Stars](https://github-readme-stats.vercel.app/api?username=MajdAlkawaas&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) | -->
-
-<!-- ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight) -->
 
 <br>
 
