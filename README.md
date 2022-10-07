@@ -9,7 +9,7 @@
 </p>
 
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=MajdAlkawaas)
+![Profile views](https://komarev.com/ghpvc/?username=MajdAlkawaas)
 [![Github](https://img.shields.io/github/followers/MajdAlkawaas?label=Follow&style=social)](https://github.com/MajdAlkawaas)
 
 <div size='20px'> Hi! My name is Majd. Thank You for taking the time to view my GitHub Profile :smile: 
