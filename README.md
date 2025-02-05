@@ -3,7 +3,7 @@
 </p> -->
 
 <h1> 
-  Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I am Majd, developer and writer. 
+  Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I am Majd, Data Scinetist and ML Engineer. 
 </h1>
 <p align = 'center'>
 </p>
@@ -20,9 +20,7 @@
 <!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 <!-- ![Majd's github stats](https://github-readme-stats.vercel.app/api?username=MajdAlkawaas&show_icons=true&hide_border=true)  -->
 
-- 🔭 I’m currently studying Computer Science at the American University of Beirut.
-
-- 🌱 I’m currently learning about biases in Machine learning.
+- 🔭 I’m currently studying a Master's in Data Science at the University of Glasgow
   
 - 👯 I’m looking for internships or collaboration opportunities in software engineering or machine learning.
   
