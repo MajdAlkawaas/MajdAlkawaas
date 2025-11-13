@@ -1,62 +1,75 @@
-<!-- <p align="center">
-    <img width="200" src="https://avatars.githubusercontent.com/u/73228648?v=4" , style="border-radius: 100px;">
-</p> -->
+<!--
+**MajdAlkawaas/MajdAlkawaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-<h1> 
-  Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I am Majd, Data Scinetist and ML Engineer. 
+<h1 align="center">
+  Hi there, I'm Majd <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
-<p align = 'center'>
+
+<p align="center">
+  <strong>Machine Learning Research Engineer</strong>
+  <br />
+  Building efficient, production-ready AI systems that bridge the gap between novel research and real-world impact.
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/majdalkawaas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:m.alkawaas@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/MajdAlkawaas"><img src="https://img.shields.io/github/followers/MajdAlkawaas?style=for-the-badge&logo=github&label=Follow"></a>
+</p>
 
-![Profile views](https://komarev.com/ghpvc/?username=MajdAlkawaas)
-[![Github](https://img.shields.io/github/followers/MajdAlkawaas?label=Follow&style=social)](https://github.com/MajdAlkawaas)
+---
 
-<div size='20px'> Hi! My name is Majd. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
+### 🔭 My Core Focus
+
+<!-- Review this section -->
+My work revolves around the full lifecycle of machine learning models, from architectural design to deployment and optimization. I'm particularly passionate about:
+
+*   **Efficient Model Architectures:** I am currently working pn increasing the efficiency of Hypencoder models (retrieval models) by reducing the amount of training they require and reducing the size of the model using multi-objective optimization techniques. So far, I have managed to reduce the training duration by 7 times and reduce the computational complexity of the model by 9 times with results comparable to other SOTA retrieval model
+
+*   **Production-Ready AI Systems:** I have engineering and deployed end-to-end ML solutions, for HVAC optimization and scientific information extraction. Most recently I have built and deployed **Retrieval-Augmented Generation (RAG)** pipeline for a fintech startup.
+
+<!-- Fix this statement up -->
+*   **MLOps & LLMOps:** My interest in AI and machine learning goes beyond model creation and testing into deploying and maintaining models in production. Therefore, I have an interest in the latest MLOps trends and practices to further increase the widespread use of AI.
+
+* **Agentic AI:** Combing the previous three interests has naturally led me to building AI agents.
+---
+
+### 💻 Technology Stack
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>ML / AI</strong>
+      <ul>
+        <li>PyTorch </li>
+        <li>HuggingFace</li>
+        <li>Scikit-learn</li>
+        <li>LLM Architecture</li>
+        <li>Inference Optimization</li>
+        <li>Retrieval-Augmented Generation (RAG)</li>
+        <li>Haystack</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <strong>MLOps & Cloud</strong>
+      <ul>
+        <li>Docker & FastAPI</li>
+        <li>CI/CD (GitHub Actions)</li>
+        <li>Azure, AWS</li>
+        <li>Experiment Tracking & Management</li>
+        <li>Prompt Engineering & Management</li>
+        <li>LLM Evaluation</li>
+        <!-- Review this part -->
+        <li>Distributed Training (Multi-GPU)</li>
+      </ul>
+    </td>
 
 
-<h2> About Me </h2>
-<!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
-<!-- ![Majd's github stats](https://github-readme-stats.vercel.app/api?username=MajdAlkawaas&show_icons=true&hide_border=true)  -->
 
-- 🔭 I’m currently studying a Master's in Data Science at the University of Glasgow
-  
-- 👯 I’m looking for internships or collaboration opportunities in software engineering or machine learning.
-  
-- ⚡ Fun fact: I love acronyms.
+  </tr>
+</table>
 
-- 💬 Reach me at: m.alkawaas@gmail.com | mma250@mail.aub.edu
+---
 
-<h2> Skills 
-</h2>
-<a href= https://github.com/MajdAlkawaas?tab=repositories&q=&type=&language=python&sort= >     <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/MajdAlkawaas?tab=repositories&q=&type=&language=java&sort= >       <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
-<a href= https://github.com/MajdAlkawaas?tab=repositories&q=&type=&language=scikit&sort= >     <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
-<a href= https://github.com/MajdAlkawaas?tab=repositories&q=&type=&language=cpp&sort= >        <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://github.com/MajdAlkawaas?tab=repositories&q=&type=&language=django&sort= >     <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg'> </a>
-<a href= https://github.com/MajdAlkawaas?tab=repositories&q=&type=&language=css&sort= >        <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/MajdAlkawaas?tab=repositories&q=&type=&language=html&sort= >       <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/MajdAlkawaas?tab=repositories&q=&type=&language=sql&sort= >        <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-<a href= https://github.com/MajdAlkawaas?tab=repositories&q=&type=&language=git&sort= >        <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
-<a href="#">        <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> </a>
-<a href="#">        <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
-<a href="#">        <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/azure.svg'> </a>
-<a href="#">        <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/arduino.svg'> </a>
-
-<h2> 
-  Connect with me 
-</h2>
-<a href = 'https://www.linkedin.com/in/majdalkawaas'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.github.com/MajdAlkawaas'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-
-<h2> </h2>
-
-<img  align="center" alt="MajdAlkawaas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MajdAlkawaas&show_icons=true&hide_border=true" />
-
-
-<br>
-
------
-Credits: [Aditya Deshmukh](https://github.com/Aditya664)
-Last Edited on: 04/17/2022
+Reach out if you would like to discuss anything related to my interests.
